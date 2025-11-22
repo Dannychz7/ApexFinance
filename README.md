@@ -1,4 +1,4 @@
-# ApexFinance-Django
+# Apex Finance
 
 ApexFinance is a Django-based stock and finance web application designed to provide users with real-time market data, portfolio tracking, and interactive dashboards. The project aims to offer a professional platform for both individual investors and finance enthusiasts to monitor and manage their investments efficiently.
 
